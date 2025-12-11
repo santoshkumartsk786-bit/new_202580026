@@ -1,0 +1,10 @@
+{
+  "total_reviews": 50000,
+  "positive_reviews": 25000,
+  "negative_reviews": 25000,
+  "positive_percentage": 50.0,
+  "negative_percentage": 50.0,
+  "sentiment_source": "existing_column_numeric",
+  "index_size_mb": 73.24223041534424,
+  "metadata_size_mb": 62.666839599609375
+}
