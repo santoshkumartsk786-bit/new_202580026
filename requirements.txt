@@ -1,8 +1,11 @@
 streamlit
 pandas
 numpy
+faiss-cpu
 sentence-transformers
 transformers
 torch
-faiss-cpu
 plotly
+scikit-learn
+protobuf
+sentencepiece
