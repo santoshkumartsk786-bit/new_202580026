@@ -9,3 +9,17 @@ plotly
 scikit-learn
 protobuf
 sentencepiece
+
+streamlit
+pandas
+numpy
+
+sentence-transformers
+transformers
+torch
+
+
+
+
+# Python standard library (usually included)
+# re, json, os, pickle, datetime are built-in
