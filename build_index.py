@@ -1,5 +1,5 @@
 """
-Build FAISS Index for RAG System with AUTOMATIC SENTIMENT DETECTION
+Build FAISS Index for RAG System with Automatic Sentiment Detection
 Works with ANY dataset - detects sentiment from review text using keyword analysis
 
 Run this script locally BEFORE deploying to Streamlit Cloud
@@ -41,7 +41,7 @@ NEGATIVE_WORDS = {
     'disappointing', 'disappointed', 'waste', 'wasted', 'pathetic', 'ridiculous',
     'stupid', 'dull', 'bland', 'mediocre', 'weak', 'fails', 'failed',
     'poorly', 'badly', 'hate', 'hated', 'annoying', 'irritating',
-    'awful', 'garbage', 'trash', 'mess', 'disaster', 'unwatchable',
+    'garbage', 'trash', 'mess', 'disaster', 'unwatchable',
     'tedious', 'slow', 'dragging', 'confusing', 'confused', 'pointless',
     'unfunny', 'cringeworthy', 'cringe', 'overrated', 'pretentious'
 }
